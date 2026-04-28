@@ -181,11 +181,3 @@ csat-prediction-project/
   **Feature Importance Chart**
   
   ![Feature Importance Chart](images/chart.png)
-
----
-
-🚀 Future Work
-
-  Allow prediction from just a ticket/order ID (auto-fill all fields)
-  
-  Improve sentiment analysis for nuanced understanding
