@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+contractions
+spacy
+shap
+joblib
+textblob
+scikit-learn
+imbalanced-learn
+xgboost
